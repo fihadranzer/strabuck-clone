@@ -1,0 +1,19 @@
+.grid {
+  display: grid;
+}
+
+.grid-column-2 {
+  grid-template-columns: 1fr 1fr;
+}
+
+.grid-column-6 {
+    grid-template-columns: repeat(6, 1fr);
+  }
+
+/* Titles Here 
+
+.main-title
+.sub-title
+
+
+*/

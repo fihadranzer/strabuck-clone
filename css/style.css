@@ -1,0 +1,53 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+:root {
+  --text-greenColor: rgb(30, 57, 50);
+  --general-BG-Color: #d4e9e2;
+  --main-color: #1e3932;
+}
+
+body {
+  font-family: "SoDo Sans SemiBold", sans-serif;
+}
+
+/* Free Faves Section  */
+.free-faves img {
+  width: 100%;
+}
+
+/* Positive Sections  */
+.positive-right img {
+  width: 100%;
+}
+
+/* shake section  */
+
+.shake img {
+  width: 100%;
+}
+
+/* vegeterian */
+
+.vegeterian img {
+  width: 100%;
+}
+
+/* uber section */
+
+.uber img {
+  width: 100%;
+}
+
+/* visa-card section */
+
+.visa-card img{
+  width: 100%;
+}
